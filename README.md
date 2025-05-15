@@ -2,6 +2,8 @@
 
 A real-time collaborative notes application built with Node.js, TypeScript, Express.js, Socket.io, and MongoDB.
 
+**Repository:** https://github.com/dina0elsergani/collab-notes-api
+
 ## Features
 
 - User authentication with JWT
